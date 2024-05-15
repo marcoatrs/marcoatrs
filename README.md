@@ -1,6 +1,6 @@
 ![README](readme.png)
 
-# Hi 👋, I'm Marco Torres
+# Hi, I'm Marco Torres
 ### Software Developer | Python
 
 ### 🛠️ Languages and Tools
